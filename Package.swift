@@ -14,6 +14,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "ZDHelperKit", url: "https://static.zohocdn.com/zohodeskmobile/ZDHelperKit/iOS/2.0.1/ZDHelperKit.zip", checksum: "3dfa26e837ed398a76e38ea9fca0b3b733a0afb2527760a1ca173fc3d29aaa81")
+        .binaryTarget(name: "ZDHelperKit", url: "https://static.zohocdn.com/zohodeskmobile/ZDHelperKit/iOS/2.0.2/ZDHelperKit.zip", checksum: "6cb48338982f09aaabaa606d6d46a18ad25544c3718227e38347ee6dd791ff0b")
     ]
 )
